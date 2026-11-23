@@ -1,6 +1,3 @@
-# Exp-4--Record-Image-Transformations
-
-
 
 # Aim
 To write a Python program using OpenCV to perform various geometric transformations on an image.
@@ -217,19 +214,32 @@ Register No:
   • Translated image (shifted right and down) is displayed
 
 
+<img width="212" height="352" alt="image" src="https://github.com/user-attachments/assets/c1e58429-4ee1-478b-aeea-d7bae62247db" />
+
+
+
+
+<img width="215" height="357" alt="image" src="https://github.com/user-attachments/assets/efc59de9-d680-4559-848e-c76343c2b7fc" />
+
+
 # Image Scaling
+
 Original image is displayed
 
 Downscaled image (0.5×) is displayed
 
 Upscaled image (2×) is displayed
 
-image
+<img width="447" height="295" alt="image" src="https://github.com/user-attachments/assets/29f1a7f5-ea53-4f49-bae4-ed6a2027463b" />
+
 # Image Shearing
 Original image is displayed
 Horizontally sheared image is displayed
 Vertically sheared image is displayed
-image image
+
+
+<img width="211" height="352" alt="image" src="https://github.com/user-attachments/assets/e193d55d-7aa5-4859-a908-0cfd688d513c" />
+
 
 # Image Reflection
 Original image is displayed
@@ -240,7 +250,8 @@ Vertically flipped image is displayed
 
 Both-axis flipped image is displayed
 
-image image image
+<img width="217" height="348" alt="image" src="https://github.com/user-attachments/assets/efe2cac9-1c7c-472f-8eba-d4ee4daf5ceb" />
+
 
 # Image Rotation
 Original image is displayed
@@ -249,7 +260,8 @@ Original image is displayed
 
 90° rotated image is displayed
 
-image image
+<img width="215" height="357" alt="image" src="https://github.com/user-attachments/assets/437a19a6-edcc-4454-9e16-5edc92a46dc0" />
+
 
 # Result
 Thus, various geometric transformations such as translation, scaling, shearing, reflection, and rotation are successfully performed using OpenCV. These transformations demonstrate how images can be spatially manipulated for different computer vision applications.
